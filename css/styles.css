@@ -438,6 +438,7 @@ footer {
 }
 
 .footer-social-text {
+  font-weight: 700;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
@@ -484,7 +485,7 @@ footer {
   line-height: 1.19;
   letter-spacing: 0.03em;
   text-align: center;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .adress-ftr {
